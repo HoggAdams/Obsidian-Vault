@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "5e89d51bc63a45ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "aacb1dd50ee31c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "766858cf620cfbc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/工具/Vim/Vim.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "656f5a45931357aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Shell/Shell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78c86675347c8bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/Shell/Shell.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1be1a991e908d47",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6729ea6124f90f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a90b9c7f29f978bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3a139bf872fa1ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#编程",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59b06242a488ead5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dac6a572256c2e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4acd21249cb6c4",
+        "type": "tabs",
+        "dimension": 43.2741116751269,
+        "children": [
+          {
+            "id": "1bbddb4dc15ec3de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb046a49bf75140c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7fbbcfade49c88f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程/Shell/Shell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "741432934dffee13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编程/Shell/Shell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8fb6536ee662d0fa",
+        "type": "tabs",
+        "dimension": 56.7258883248731,
+        "children": [
+          {
+            "id": "461e407e70545614",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程/Shell/Shell.md"
+              }
+            }
+          },
+          {
+            "id": "6d6a67fb0eac25bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "78c86675347c8bf4",
+  "lastOpenFiles": [
+    "编程/Shell/Shell.md",
+    "编程/Shell/01-Shell概述.md",
+    "编程/工具/Vim/Vim.md",
+    "编程/CSharp/CSharp.md",
+    "编程/CSharp/01-初识CSharp.md",
+    "编程/Linux/01-Linux入门/01-Linux入门.md",
+    "编程/Linux/02-Linux文件与目录/02-Linux文件与目录.md",
+    "编程/Linux/03-VI&Vim编辑器/03-VI&Vim编辑器.md",
+    "编程/Linux/04-网络配置/04-网络配置.md",
+    "编程/Linux/05-系统管理操作/05-系统管理操作.md"
+  ]
+}

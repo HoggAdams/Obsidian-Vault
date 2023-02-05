@@ -1,0 +1,27 @@
+{
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "【代码高亮】code-color-change-sublime",
+    "【卡片视图】cards",
+    "zettelkasten卡片视图",
+    "【自定义】多彩进度条",
+    "【图片】图片悬停放大3倍",
+    "【图标】checkbox",
+    "【列表】vertical line for Blue Topaz-2",
+    "【列表】vertical line for Blue Topaz-1",
+    "【配色】color scheme_dark to light (All blue)",
+    "【列表】有序列表自动编号",
+    "【列表】remove border of lists",
+    "【链接】customized link",
+    "【插件】Kanban shadow-3 (changing gradient colors)_v",
+    "【插件】Kanban shadow-2 (changing colors)_v0.5",
+    "custom-admonitions.b751be",
+    "bigger-link-popup-preview"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "accentColor": ""
+}

@@ -10,7 +10,8 @@
   "obsidian-paste-as-html:paste-as-html": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
       ],
       "key": "V"
     }

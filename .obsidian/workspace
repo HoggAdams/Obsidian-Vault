@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "编程/CSharp/04-操作符.md",
+            "file": "编程/Java/02-变量.md",
             "mode": "source",
-            "source": false
+            "backlinks": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#编程",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/CSharp/04-操作符.md",
+                "file": "编程/Java/02-变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +111,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/CSharp/04-操作符.md",
+                "file": "编程/Java/02-变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "b5c3de284519a761",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
             }
           }
         ],
@@ -131,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/CSharp/04-操作符.md"
+                "file": "编程/Java/02-变量.md"
               }
             }
           },
@@ -152,17 +160,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a90b9c7f29f978bc",
+  "active": "766858cf620cfbc7",
   "lastOpenFiles": [
+    "编程/CSharp/03-变量和数据类型.md",
+    "编程/Java/02-变量.md",
+    "编程/CSharp/CSharp.md",
     "编程/CSharp/04-操作符.md",
+    "编程/CSharp/01-初识CSharp.md",
+    "编程/Java/01-Java概述.md",
     "编程/CSharp/05-判断语句.md",
     "编程/CSharp/02-一个简单的CSharp程序.md",
-    "编程/CSharp/03-变量和数据类型.md",
     "未命名.md",
-    "编程/Linux/05-系统管理操作/05-系统管理操作.md",
-    "编程/Linux/01-Linux入门/01-Linux入门.md",
-    "编程/Linux/03-VI&Vim编辑器/03-VI&Vim编辑器.md",
-    "编程/Linux/04-网络配置/04-网络配置.md",
-    "Excalidraw/01-嵌套代码块.md"
+    "编程/Linux/05-系统管理操作/05-系统管理操作.md"
   ]
 }

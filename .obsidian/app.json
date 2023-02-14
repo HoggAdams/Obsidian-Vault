@@ -2,7 +2,15 @@
   "showFrontmatter": false,
   "smartIndentList": false,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "编程/CSharp",
+  "attachmentFolderPath": "编程/Java",
   "promptDelete": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "legacyEditor": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -4,50 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "aacb1dd50ee31c5b",
+        "id": "e1626be97c067907",
         "type": "tabs",
         "children": [
           {
-            "id": "766858cf620cfbc7",
+            "id": "a7a27d986e3a22ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/工具/Vim/Vim.md",
+                "file": "编程/Java/02-变量和数据类型及转换.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": true
               }
             }
           },
           {
-            "id": "656f5a45931357aa",
+            "id": "4fe7e03317179358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/Shell/Shell.md",
+                "file": "编程/CSharp/02-一个简单的CSharp程序.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78c86675347c8bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/Shell/Shell.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "backlinks": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#编程",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/Shell/Shell.md",
+                "file": "编程/Java/02-变量和数据类型及转换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/Shell/Shell.md",
+                "file": "编程/Java/02-变量和数据类型及转换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/Shell/Shell.md"
+                "file": "编程/Java/02-变量和数据类型及转换.md"
               }
             }
           },
@@ -200,20 +184,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "78c86675347c8bf4",
+  "active": "a7a27d986e3a22ad",
   "lastOpenFiles": [
-    "编程/Shell/Shell.md",
-    "编程/Shell/01-Shell概述.md",
-    "编程/工具/Vim/Vim.md",
+    "编程/Java/01-Java概述和开发细节.md",
+    "编程/Java/03-运算符和进制.md",
+    "编程/Java/02-变量和数据类型及转换.md",
+    "编程/CSharp/02-一个简单的CSharp程序.md",
+    "编程/CSharp/03-变量和数据类型.md",
+    "学习/物理/牛二力学/01-认识牛顿第二定律.md",
+    "学习/物理/牛二力学/02-拉力作用的最短时间.md",
+    "学习/物理/未命名.md",
     "编程/CSharp/CSharp.md",
-    "编程/CSharp/01-初识CSharp.md",
-    "编程/Linux/01-Linux入门/01-Linux入门.md",
-    "编程/Linux/02-Linux文件与目录/02-Linux文件与目录.md",
-    "编程/Linux/03-VI&Vim编辑器/03-VI&Vim编辑器.md",
-    "编程/Linux/04-网络配置/04-网络配置.md",
-    "编程/Linux/05-系统管理操作/05-系统管理操作.md"
+    "编程/CSharp/08-数组.md"
   ]
 }

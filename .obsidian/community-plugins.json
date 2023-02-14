@@ -29,5 +29,8 @@
   "obsidian-pandoc",
   "css-snippets",
   "obsidian-outliner",
-  "cycle-through-panes"
+  "cycle-through-panes",
+  "obsidian-enhancing-export",
+  "webpage-html-export",
+  "obsidian-annotator"
 ]

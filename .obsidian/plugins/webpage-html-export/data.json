@@ -1,0 +1,12 @@
+{
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
+  "makeNamesWebStyle": false,
+  "includePluginCSS": "obsidian-admonition\ntable-editor-obsidian\nobsidian-auto-link-title\nbuttons\ndataview\nobsidian-dynamic-toc\nobsidian-emoji-toolbar\nobsidian-excalidraw-plugin\nobsidian-excel-to-markdown-table\nfolder-note-plugin\nobsidian-footnotes\nobsidian-icon-shortcodes\nlink-favicon\nmarkdown-prettifier\nmermaid-tools\nnotion-like-tables\nobsidian-style-settings\nweb-browser\nobsidian-pandoc\nobsidian-outliner\nobsidian-enhancing-export\nobsidian42-brat\ncm-editor-syntax-highlight-obsidian",
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "customLineWidth": 0,
+  "openAfterExport": false,
+  "lastExportPath": "/home/hogg/Documents"
+}
